@@ -129,6 +129,10 @@ Maps are [associative containers](https://www.geeksforgeeks.org/containers-cpp-s
 
 [Restaurant Customers](https://vjudge.net/contest/517904#problem/G)
 
+[Everyone is Friends](https://atcoder.jp/contests/abc272/tasks/abc272_b)
+
+[Not a Cheap String](https://codeforces.com/contest/1702/problem/D)
+
 ---
 
 ## Set
