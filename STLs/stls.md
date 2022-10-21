@@ -168,6 +168,15 @@ defining a set with values
 - [size()](https://www.geeksforgeeks.org/setsize-c-stl/) - Returns the number of elements in the set.
 - [empty()](https://www.geeksforgeeks.org/setempty-c-stl/) - Returns whether the set is empty.
 
+- [erase(iterator position)](https://www.geeksforgeeks.org/seterase-c-stl/) 	Removes the element at the position pointed by the iterator.
+
+- [count(const g)](https://www.geeksforgeeks.org/set-count-function-in-c-stl/)	Returns 1 or 0 based on whether the element ‘g’ is present in the set or not.
+
+- [lower_bound(const g)](https://www.geeksforgeeks.org/set-lower_bound-function-in-c-stl/)	Returns an iterator to the first element that is equivalent to ‘g’ or definitely will not go before the element ‘g’ in the set.
+
+
+- [upper_bound(const g)](https://www.geeksforgeeks.org/set-upper_bound-function-in-c-stl/)	Returns an iterator to the first element that will go after the element ‘g’ in the set.
+
 ---
 
 ***The time complexities for doing various operations on sets are***
