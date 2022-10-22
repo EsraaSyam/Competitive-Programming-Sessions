@@ -90,7 +90,7 @@ for(auto& it : mp)
     cout << it.first << " " << it.second << "\n";
 
 // the third way
-for(auto it = mp.begin(); it != mp.end(); i++)
+for(auto it = mp.begin(); it != mp.end(); it++)
     cout << it -> first << " " << it -> second << "\n";
 ```
 
