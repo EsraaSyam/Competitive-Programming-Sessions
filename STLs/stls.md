@@ -108,6 +108,11 @@ Maps are [associative containers](https://www.geeksforgeeks.org/containers-cpp-s
 - [empty()](https://www.geeksforgeeks.org/mapempty-c-stl/) - Returns whether the map is empty.
 - [pair insert(keyvalue, mapvalue)](https://www.geeksforgeeks.org/map-insert-in-c-stl/) - Adds a new element to the map.
 - [clear()](https://www.geeksforgeeks.org/mapclear-c-stl/) - Removes all the elements from the map.
+- [erase(iterator position)](https://www.geeksforgeeks.org/map-erase-function-in-c-stl/) – Removes the element at the position pointed by the iterator.
+- [erase(const g)](https://www.geeksforgeeks.org/map-erase-function-in-c-stl/)– Removes the key-value ‘g’ from the map.
+- [map upper_bound()](https://www.geeksforgeeks.org/map-upper_bound-function-in-c-stl/)	Returns an iterator to the first element that is equivalent to mapped value with key-value ‘g’ or definitely will go after the element with key-value ‘g’ in the map
+- [map lower_bound()](https://www.geeksforgeeks.org/map-lower_bound-function-in-c-stl/)	Returns an iterator to the first element that is equivalent to the mapped value with key-value ‘g’ or definitely will not go before the element with key-value ‘g’ in the map –> O(log n)
+- 
 
 ---
 
