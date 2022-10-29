@@ -3,7 +3,6 @@
 ## Outlines
 
 - [STLs](#stls)
-  - [session](#Session @ ICPC SCU)
   - [Outlines](#outlines)
   - [Vector](#vector)
   - [Map](#map)
@@ -11,8 +10,8 @@
   - [External links](#external-links)
  
  ## Session @ ICPC SCU
- - (part1)[https://cisuezedu.sharepoint.com/sites/ICPC-SCULevel12022/_layouts/15/stream.aspx?id=%2Fsites%2FICPC%2DSCULevel12022%2FShared%20Documents%2FGeneral%2FRecordings%2FSTLs%2D20221023%5F200429%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DWEB&referrerScenario=teamsSdk%2DopenFilePreview]
- - (part2)[https://cisuezedu.sharepoint.com/sites/ICPC-SCULevel12022/_layouts/15/stream.aspx?id=%2Fsites%2FICPC%2DSCULevel12022%2FShared%20Documents%2FGeneral%2FRecordings%2Fstls%20part%202%2D20221028%5F191444%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DWEB&referrerScenario=teamsSdk%2DopenFilePreview]
+ - [part 1](https://cisuezedu.sharepoint.com/sites/ICPC-SCULevel12022/_layouts/15/stream.aspx?id=%2Fsites%2FICPC%2DSCULevel12022%2FShared%20Documents%2FGeneral%2FRecordings%2FSTLs%2D20221023%5F200429%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DWEB&referrerScenario=teamsSdk%2DopenFilePreview)
+ - [part2](https://cisuezedu.sharepoint.com/sites/ICPC-SCULevel12022/_layouts/15/stream.aspx?id=%2Fsites%2FICPC%2DSCULevel12022%2FShared%20Documents%2FGeneral%2FRecordings%2Fstls%20part%202%2D20221028%5F191444%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DWEB&referrerScenario=teamsSdk%2DopenFilePreview)
  ---
 
 ## Vector
@@ -214,7 +213,7 @@ defining a set with values
 ---
 
 ## External links
-
+[Another notes](https://onedrive.live.com/view.aspx?resid=F7E21CB6E5E8613D!2686&authkey=!ACkejYcoul4B2Qo)
 [STL - Playlist (Adel Nassim)](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp)
 
 [STL - Playlist (Cpp Nuts)](https://www.youtube.com/playlist?list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA)
