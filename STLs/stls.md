@@ -214,6 +214,7 @@ defining a set with values
 
 ## External links
 [Another notes](https://onedrive.live.com/view.aspx?resid=F7E21CB6E5E8613D!2686&authkey=!ACkejYcoul4B2Qo)
+
 [STL - Playlist (Adel Nassim)](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp)
 
 [STL - Playlist (Cpp Nuts)](https://www.youtube.com/playlist?list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA)
