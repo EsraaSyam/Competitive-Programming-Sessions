@@ -4,17 +4,18 @@
 
 - syntax :
 ```cpp
-vector < bool > is_prime(10e7 + 5, true);
+const int N = 1e7 + 5;
+vector < bool > is_prime(N, true);
 vector < ll > primes;
 void Sieve(){
     is_prime[0] = false;
     is_prime[1] = false;
-    for(long long i = 2; i * i < 1e7 + 5; i++)
+    for(long long i = 2; i * i < N; i++)
         if(is_prime[i])
-            for(int j = 2 * i; j < 1e7 + 5; j += i)
+            for(int j = 2 * i; j < N; j += i)
                 is_prime[j] = false;
  
-    for(int i = 0; i < 1e7 + 5; i++){
+    for(int i = 0; i < N ; i++){
         if(is_prime[i])
             primes.push_back(i);
     }
