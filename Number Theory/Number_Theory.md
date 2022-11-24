@@ -62,6 +62,8 @@ void sieve_prime_factorization(ll n){
 }
 ```
 
+- we use it when problem want anly the number of uniqe prime factors
+- 
 - time complexity
 
 ---
