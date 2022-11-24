@@ -46,6 +46,8 @@ void sieve_factorization(ll n){
 ```
 - time complexity
 
+  $nlog(n)$
+
 ---
 ## 3- sieve prime factorization
 
@@ -66,6 +68,8 @@ void sieve_prime_factorization(ll n){
 - we use it when problem want only the number of uniqe prime factors
 - 
 - time complexity
+
+  $nlog(n)$
 
 ---
 ### problem (sieve factorization and sieve prime factorization)
