@@ -22,7 +22,7 @@ void Sieve(){
 ```
 - time complexity : 
 
-     $ O(nloglogn) $
+     $O(nloglogn)$
 
 - problem
 
